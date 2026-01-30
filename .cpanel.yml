@@ -1,5 +1,5 @@
 ---
 deployment:
 tasks:
-- export DEPLOYPATH=/home/rijwanmy/public_html/git
+- export DEPLOYPATH=/home/rijwanmy/public_html/flutter.wankeren.my.id/git
 - /bin/cp -r * $DEPLOYPATH
